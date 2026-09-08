@@ -1,0 +1,19 @@
+{
+  "name": "amazon",
+  "version": "0.1.10",
+  "description": "Prepare Amazon purchases as reversible cart proposals and require the user's final approval.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/amazon",
+  "repository": "https://github.com/PedroAVJ/amazon",
+  "license": "MIT",
+  "keywords": [
+    "purchases",
+    "amazon",
+    "cart",
+    "approval"
+  ],
+  "skills": "./skills/"
+}

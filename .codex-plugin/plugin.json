@@ -1,0 +1,40 @@
+{
+  "name": "amazon",
+  "version": "0.1.10",
+  "description": "Prepare Amazon purchases as reversible cart proposals and require the user's final approval.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/amazon",
+  "repository": "https://github.com/PedroAVJ/amazon",
+  "license": "MIT",
+  "keywords": [
+    "purchases",
+    "amazon",
+    "cart",
+    "approval"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Amazon",
+    "shortDescription": "Prepare Amazon carts for final approval",
+    "longDescription": "Ground an ordinary Amazon purchase, prepare a reversible cart when the product is clear, and surface the exact proposal for the user's approval without placing an unattended order.",
+    "developerName": "PedroAVJ",
+    "category": "Shopping",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/PedroAVJ/amazon",
+    "defaultPrompt": [
+      "Prepare this Amazon purchase for my approval",
+      "Reorder this household item without checking out",
+      "Show me options before changing my cart"
+    ],
+    "brandColor": "#FF9900",
+    "composerIcon": "./assets/amazon-icon.svg",
+    "logo": "./assets/amazon-icon.svg",
+    "screenshots": []
+  }
+}

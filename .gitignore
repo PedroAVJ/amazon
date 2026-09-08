@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+DerivedData/
+
+# Operator-specific configuration stays outside public source.
+preferences/*.md
+!preferences/README.md

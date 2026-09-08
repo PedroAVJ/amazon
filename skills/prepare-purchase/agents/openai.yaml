@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare Purchase"
+  short_description: "Prepare a cart and request approval"
+  default_prompt: "Use $prepare-purchase to prepare an Amazon purchase for my approval."
